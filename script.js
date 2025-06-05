@@ -85,7 +85,7 @@ function create_map(lat, lng, country, region) {
 
 const github = document.querySelector('.github');
 github.addEventListener('click', () => {
-  window.open('https://github.com/KavyaRajeevs/', '_blank');
+  window.open('https://github.com/KavyaRajeevs/IP-Address-Tracker/', '_blank');
 });
 
 // Default IP address
